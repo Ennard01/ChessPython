@@ -3,6 +3,7 @@ import pygame
 import chess
 import socket
 import threading
+import sys
 
 # Размеры игрового окна и фпс
 WIDTH, HEIGHT = 512, 512
